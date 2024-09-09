@@ -1,5 +1,7 @@
 ## Project Introduction: AI-Powered To-Do List Application
 
+DEMO: [https://todo.putianai.me/](https://todo.putianai.me/)
+
 This project showcases the development of a robust and scalable to-do list application built using a cutting-edge technology stack. Leveraging the power of FastAPI for a high-performance backend and a responsive React frontend optimized with Vite, the application ensures rapid development and efficient rendering. 
 
 Seamless integration between the frontend and backend is achieved through OpenAPI specifications, promoting code maintainability and facilitating robust API documentation.  Furthermore, the application is currently being enhanced with artificial intelligence (AI) algorithms to introduce intelligent task planning and scheduling capabilities. This involves researching machine learning models for task prioritization based on user behavior and deadlines, with the ultimate goal of optimizing user productivity and streamlining workflow management.
